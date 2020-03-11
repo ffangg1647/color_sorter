@@ -1,0 +1,11 @@
+D:\WORKS\CE Color sorting\Application\Arduino Color Sorter\Arduino Color Sorter\bin\Debug\Arduino Color Sorter.exe.config
+D:\WORKS\CE Color sorting\Application\Arduino Color Sorter\Arduino Color Sorter\bin\Debug\Arduino Color Sorter.exe
+D:\WORKS\CE Color sorting\Application\Arduino Color Sorter\Arduino Color Sorter\bin\Debug\Arduino Color Sorter.pdb
+D:\WORKS\CE Color sorting\Application\Arduino Color Sorter\Arduino Color Sorter\bin\Debug\Arduino Color Sorter.xml
+D:\WORKS\CE Color sorting\Application\Arduino Color Sorter\Arduino Color Sorter\obj\Debug\Arduino Color Sorter.vbprojAssemblyReference.cache
+D:\WORKS\CE Color sorting\Application\Arduino Color Sorter\Arduino Color Sorter\obj\Debug\Arduino_Color_Sorter.frm_main.resources
+D:\WORKS\CE Color sorting\Application\Arduino Color Sorter\Arduino Color Sorter\obj\Debug\Arduino_Color_Sorter.Resources.resources
+D:\WORKS\CE Color sorting\Application\Arduino Color Sorter\Arduino Color Sorter\obj\Debug\Arduino Color Sorter.vbproj.GenerateResource.cache
+D:\WORKS\CE Color sorting\Application\Arduino Color Sorter\Arduino Color Sorter\obj\Debug\Arduino Color Sorter.exe
+D:\WORKS\CE Color sorting\Application\Arduino Color Sorter\Arduino Color Sorter\obj\Debug\Arduino Color Sorter.xml
+D:\WORKS\CE Color sorting\Application\Arduino Color Sorter\Arduino Color Sorter\obj\Debug\Arduino Color Sorter.pdb
